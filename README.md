@@ -1,7 +1,7 @@
 # paysage-font
 A font family named Paysage
 
-This font project consists in a large scope font family, including:
+This font project consists of a wide-scope font family, including:
 
 - Paysage Sans Grotesque (Geometric Sans / grotesque font similar to circular)
 - Paysage Sans Gothic (Width-contrasted version of the grotesque)
